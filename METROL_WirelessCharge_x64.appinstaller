@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://bennett-utc.github.io/METROL_WirelessCharge_Publish/METROL_WirelessCharge_x64.appinstaller"
-	Version="0.1.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="0.1.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="METROL-Wireless-Charge"
-		Version="0.1.2.0"
+		Version="0.1.6.0"
 		Publisher="CN=UNITEC"
-		Uri="https://bennett-utc.github.io/METROL_WirelessCharge_Publish/METROL_WirelessCharge_0.1.2.0_x64_Test/METROL_WirelessCharge_0.1.2.0_x64.msix"
+		Uri="https://bennett-utc.github.io/METROL_WirelessCharge_Publish/METROL_WirelessCharge_0.1.6.0_x64_Test/METROL_WirelessCharge_0.1.6.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://bennett-utc.github.io/METROL_WirelessCharge_Publish/METROL_WirelessCharge_0.1.2.0_x64_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
+			Uri="https://bennett-utc.github.io/METROL_WirelessCharge_Publish/METROL_WirelessCharge_0.1.6.0_x64_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
 			Version="8000.675.1142.0" />
 	</Dependencies>
 	<UpdateSettings>
